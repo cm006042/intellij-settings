@@ -1,15 +1,24 @@
 <scheme name="_@user_Railscasts" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2017-05-11T14:09:28</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.3.0.0</property>
-    <property name="modified">2017-05-11T15:29:11</property>
+    <property name="modified">2018-07-26T14:48:36</property>
     <property name="originalScheme">Railscasts</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.15" />
-  <option name="EDITOR_FONT_SIZE" value="13" />
-  <option name="CONSOLE_LINE_SPACING" value="1.2" />
+  <option name="LINE_SPACING" value="1.4" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="Ricty Diminished for Powerline" />
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Ricty Diminished for Powerline" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </console-font>
+  <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <colors>
     <option name="CARET_COLOR" value="ffffff" />
     <option name="CARET_ROW_COLOR" value="333435" />
