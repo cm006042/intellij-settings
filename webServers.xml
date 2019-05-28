@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="97108e7a-bd94-4d81-bbeb-aa4db54069e5" name="local" url="https://admin.flyingvisitjapan.com.work">
+        <fileTransfer port="0" mountedRoot="$USER_HOME$/srv/projects/admin.flyingvisitjapan.com.work/public" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</application>
